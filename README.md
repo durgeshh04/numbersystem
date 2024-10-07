@@ -1,4 +1,4 @@
-# This is my evaluation of github
+# This is my evaluation of github-repo
 
 ## I've created two files index.js and app.js
 
